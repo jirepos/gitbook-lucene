@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [루씬 정리](README.md)
 * [시작하기](lucene-01-getstarted.md)
 * [분석기(Analyzer)](lucene-02-analyzer.md)
 * [분석기 개념](lucene-03-analyzer-concept.md)
